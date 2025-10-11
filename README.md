@@ -43,7 +43,7 @@ Description: Recognized by the United Nations Educational, Scientific and Cultur
 - [欧盟信息安全名人堂 (EU Information Security Hall of Fame)](https://cert.europa.eu/hall-of-fame)
 - [联合国信息安全名人堂 (UN Information Security Hall of Fame)](https://unite.un.org/en/un-information-security-hall-fame)
 - [世界卫生组织名人堂 (ethical hackers and vulnerability researchers)](https://www.who.int/about/cybersecurity/vulnerability-hall-of-fame/ethical-hacker-list)
-- [联合国教科文组织 (Hall of Fame)]([https://www.who.int/about/cybersecurity/vulnerability-hall-of-fame/ethical-hacker-list](https://www.unesco.org/en/vulnerability-disclosure))
+- [联合国教科文组织 (Hall of Fame)](https://www.unesco.org/en/vulnerability-disclosure)
 
 ## 🛰️ NASA Vulnerability Disclosure
 
